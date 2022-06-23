@@ -44,7 +44,7 @@ body {
 
 /* hero style start */
 .hero {
-    background-image: url(../images/hero-bg.jpeg);
+    background-image: url(../images/hero-bg.jpg);
     background-size: cover;
     background-position: center;
     height: 600px;
